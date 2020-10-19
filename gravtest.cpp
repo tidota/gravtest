@@ -107,7 +107,7 @@ int main(void)
   //SET2("Akebono",233,1.015)
   //SET2("Musashimaru",235,0.96)
 
-  SET1("Konoshiki",285,0.935)
+  SET1("Konishiki",285,0.935)
   SET2("Akebono",233,1.015)
 
   double x1 = 0; // length moved (m)
